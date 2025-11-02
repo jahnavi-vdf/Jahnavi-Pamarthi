@@ -1,0 +1,8 @@
+{
+  "name": "heART-sync AI",
+  "description": "A multimodal application that analyzes the emotion from your face or text, then generates unique, AI-powered art and music descriptions to match your mood.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
